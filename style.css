@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+body, html{
+	background-color: #E0E0DD;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+/*Text within the heading*/
+h1{
+	font-size: 100px;
+	font-family: "Comfortaa";
+	text-align: center;
+	color: #6aa84f
+
+}
+/* Subtitles for the main heading*/
+	p{
+		font-family: "Comfortaa";
+		font-size: 20px;
+		color: #6aa84f;
+		text-align: center;
+		margin: 0%;
+		padding-bottom: 10px;
+		background-color: black;
+
+	}
+	/*used for both the LOGIN button and the SIGN UP button*/
+button {
+	font-family: "Comfortaa";
+    background-color: #6aa84f;
+    color: white;
+    padding: 6px 10px;
+    margin: 8px ;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+}
+/*Affects the EURO symbol in the heading*/
+.color{
+    color: #ffd966;
+    font-size: 74px;
+}
+/*Main logo and heading at top of the screen*/
+.Heading{
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	background-color: black;
+}
